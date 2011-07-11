@@ -1,0 +1,10 @@
+
+Simple util for selecting DOM elements
+------------------------------------
+
+selects elements by id, class or tag
+
+    *   select("#myid"));
+    *   select(".myclass");
+    *   select("div");
+
